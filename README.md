@@ -55,7 +55,10 @@
   <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
   <tr>
     <td width="64" align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/24586296?s=80" width="36" height="36" alt="apify" style="border-radius:6px" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/apify-dark.svg" />
+        <img src="./assets/apify-light.svg" width="36" height="36" alt="apify" />
+      </picture>
     </td>
     <td valign="middle">
       <a href="https://github.com/ShawnMadadha/materiality-watch"><b><samp>materiality-watch</samp></b></a>
@@ -169,10 +172,36 @@
 <b>05 &nbsp; Correspondence</b>
 </samp>
 
-<samp>
-&nbsp;&nbsp;<a href="mailto:shawn4speed@gmail.com">shawn4speed@gmail.com</a><br>
-&nbsp;&nbsp;<a href="https://github.com/ShawnMadadha">github.com/ShawnMadadha</a>
-</samp>
+<p>
+  &nbsp;&nbsp;
+  <a href="mailto:shawn4speed@gmail.com" title="shawn4speed@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/d4d4d4" />
+      <img src="https://cdn.simpleicons.org/gmail/2b2b2b" width="22" height="22" alt="email" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ShawnMadadha" title="github.com/ShawnMadadha">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d4d4d4" />
+      <img src="https://cdn.simpleicons.org/github/2b2b2b" width="22" height="22" alt="github" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shawnmadadha" title="linkedin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/d4d4d4" />
+      <img src="https://cdn.simpleicons.org/linkedin/2b2b2b" width="22" height="22" alt="linkedin" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/shawnmadadha" title="x">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/d4d4d4" />
+      <img src="https://cdn.simpleicons.org/x/2b2b2b" width="22" height="22" alt="x" />
+    </picture>
+  </a>
+</p>
 
 <br>
 
