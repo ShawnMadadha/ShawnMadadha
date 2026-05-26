@@ -55,15 +55,12 @@
   <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
   <tr>
     <td width="64" align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/d4d4d4" />
-        <img src="https://cdn.simpleicons.org/anthropic/2b2b2b" width="36" height="36" alt="anthropic" />
-      </picture>
+      <img src="https://avatars.githubusercontent.com/u/24586296?s=80" width="36" height="36" alt="apify" style="border-radius:6px" />
     </td>
     <td valign="middle">
       <a href="https://github.com/ShawnMadadha/materiality-watch"><b><samp>materiality-watch</samp></b></a>
       <br>
-      <sub><samp>ai-powered website change monitoring · define what matters in plain english.</samp></sub>
+      <sub><samp>apify connector for website change monitoring · define what matters in plain english.</samp></sub>
     </td>
   </tr>
   <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
@@ -184,20 +181,34 @@
 <br>
 
 <details>
-<summary><samp>&nbsp;the receipts</samp></summary>
+<summary>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d4d4d4" />
+    <img src="https://cdn.simpleicons.org/github/2b2b2b" width="14" height="14" alt="github" align="center" />
+  </picture>
+  &nbsp;<samp>the receipts</samp>
+</summary>
 
 <br>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=666666&text_color=333333&count_private=true&hide_title=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&hide_border=true&bg_color=00000000&title_color=d4d4d4&icon_color=d4d4d4&text_color=a0a0a0&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&hide_border=true&bg_color=00000000&title_color=2b2b2b&icon_color=2b2b2b&text_color=4a4a4a&count_private=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&langs_count=6&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=6&hide_title=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ShawnMadadha&hide_border=true&background=00000000&stroke=00000000&ring=d4d4d4&fire=d4d4d4&currStreakNum=d4d4d4&sideNums=d4d4d4&currStreakLabel=d4d4d4&sideLabels=a0a0a0&dates=a0a0a0" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ShawnMadadha&hide_border=true&background=00000000&stroke=00000000&ring=2b2b2b&fire=2b2b2b&currStreakNum=2b2b2b&sideNums=2b2b2b&currStreakLabel=2b2b2b&sideLabels=4a4a4a&dates=4a4a4a" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&hide_border=true&bg_color=00000000&title_color=d4d4d4&text_color=a0a0a0&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&hide_border=true&bg_color=00000000&title_color=2b2b2b&text_color=4a4a4a&langs_count=6" />
 </picture>
 
 </div>
