@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ShawnMadadha&style=flat-square&color=22d3ee&label=visitors" alt="visitors" />
   <img src="https://img.shields.io/github/followers/ShawnMadadha?style=flat-square&color=22d3ee&labelColor=0b1220" alt="followers" />
-  <a href="mailto:r3vacations@gmail.com">
+  <a href="mailto:shawn4speed@gmail.com">
     <img src="https://img.shields.io/badge/open%20to%20work-22d3ee?style=flat-square&logo=gmail&logoColor=0b1220&labelColor=0b1220" alt="open to work" />
   </a>
 </p>
@@ -89,7 +89,7 @@ const shawn = {
 ### 📫 reach me
 
 <p>
-  <a href="mailto:r3vacations@gmail.com"><img src="https://img.shields.io/badge/gmail-22d3ee?style=for-the-badge&logo=gmail&logoColor=0b1220" /></a>
+  <a href="mailto:shawn4speed@gmail.com"><img src="https://img.shields.io/badge/gmail-22d3ee?style=for-the-badge&logo=gmail&logoColor=0b1220" /></a>
   <a href="https://github.com/ShawnMadadha"><img src="https://img.shields.io/badge/github-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee" /></a>
 </p>
 
