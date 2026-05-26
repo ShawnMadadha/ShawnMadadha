@@ -195,7 +195,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/shawnmadadha" title="x">
+  <a href="https://x.com/ShawnMadadha7" title="x">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/d4d4d4" />
       <img src="https://cdn.simpleicons.org/x/2b2b2b" width="22" height="22" alt="x" />
@@ -209,15 +209,9 @@
 
 <br>
 
-<details>
-<summary>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d4d4d4" />
-    <img src="https://cdn.simpleicons.org/github/2b2b2b" width="14" height="14" alt="github" align="center" />
-  </picture>
-  &nbsp;<samp>the receipts</samp>
-</summary>
+<samp>
+<b>06 &nbsp; The Receipts</b>
+</samp>
 
 <br>
 
@@ -242,7 +236,9 @@
 
 </div>
 
-</details>
+<br>
+
+---
 
 <br>
 
