@@ -1,98 +1,140 @@
 <div align="center">
 
-<a href="https://github.com/ShawnMadadha">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=hi%2C+i'm+shawn+%F0%9F%91%8B;19+%2F+ucf+'28+%2F+orlando;founder+%E2%80%A2+ios+%2B+ai+%2B+healthcare;currently+shipping+tarmac+%26+kinetic" alt="header" />
-</a>
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ShawnMadadha&style=flat-square&color=22d3ee&label=visitors" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/ShawnMadadha?style=flat-square&color=22d3ee&labelColor=0b1220" alt="followers" />
-  <a href="mailto:shawn4speed@gmail.com">
-    <img src="https://img.shields.io/badge/open%20to%20work-22d3ee?style=flat-square&logo=gmail&logoColor=0b1220&labelColor=0b1220" alt="open to work" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=99999&color=8B8B8B&center=true&vCenter=true&width=520&height=24&lines=%E2%80%94+Issue+No.+01+%E2%80%94+Orlando%2C+2026+%E2%80%94" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=99999&color=666666&center=true&vCenter=true&width=520&height=24&lines=%E2%80%94+Issue+No.+01+%E2%80%94+Orlando%2C+2026+%E2%80%94" />
+</picture>
+
+<h1>
+  <samp>S&nbsp;H&nbsp;A&nbsp;W&nbsp;N&nbsp;&nbsp;&nbsp;M&nbsp;A&nbsp;D&nbsp;A&nbsp;D&nbsp;H&nbsp;A</samp>
+</h1>
+
+<sub><samp>founder · nineteen · ucf class of '28</samp></sub>
+
+<br><br>
+
+<kbd><samp>&nbsp;&nbsp;building things people actually want to use.&nbsp;&nbsp;</samp></kbd>
+
+<br><br>
 
 </div>
 
 ---
 
-### 🚀 currently shipping
+<br>
 
-> **`tarmac`** &nbsp;·&nbsp; ios delay-sightseeing — turn flight delays into spontaneous adventures
-> **`kinetic`** &nbsp;·&nbsp; voice-first EMR for home health, built for [Entrepreneur First](https://www.joinef.com/)
+<samp>
+<b>01 &nbsp; Currently</b>
+</samp>
 
-```ts
-const shawn = {
-  age: 19,
-  school: "UCF '28",
-  city: "Orlando",
-  building: ["tarmac (ios)", "kinetic (emr)"],
-  stack: ["swift", "typescript", "python", "next", "supabase"],
-  vibe: "ship fast, talk to users, repeat",
-};
-```
+> **tarmac** — an iOS app that turns flight delays into something worth landing for.
+> Real flight data, real time, real plans. Swift. Shipping soon.
 
----
+<br>
 
-### 📦 recent drops
+<samp>
+<b>02 &nbsp; Selected Work</b>
+</samp>
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/ShawnMadadha/tarmac-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=tarmac-api&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=22d3ee" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=tarmac-api&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=tarmac-api&theme=transparent&hide_border=true&title_color=000000&icon_color=666666&text_color=333333" />
+        </picture>
       </a>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/ShawnMadadha/materiality-watch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=materiality-watch&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=22d3ee" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=materiality-watch&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=materiality-watch&theme=transparent&hide_border=true&title_color=000000&icon_color=666666&text_color=333333" />
+        </picture>
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/ShawnMadadha/instagram_dm_mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=instagram_dm_mcp&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=22d3ee" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=instagram_dm_mcp&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=instagram_dm_mcp&theme=transparent&hide_border=true&title_color=000000&icon_color=666666&text_color=333333" />
+        </picture>
       </a>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <a href="https://github.com/ShawnMadadha/iris-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=iris-app&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=22d3ee" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=iris-app&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShawnMadadha&repo=iris-app&theme=transparent&hide_border=true&title_color=000000&icon_color=666666&text_color=333333" />
+        </picture>
       </a>
     </td>
   </tr>
 </table>
 
+<br>
+
+<samp>
+<b>03 &nbsp; Instruments</b>
+</samp>
+
+<samp>&nbsp;&nbsp;Swift&nbsp;&nbsp;·&nbsp;&nbsp;TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Python&nbsp;&nbsp;·&nbsp;&nbsp;Next.js&nbsp;&nbsp;·&nbsp;&nbsp;Postgres&nbsp;&nbsp;·&nbsp;&nbsp;Supabase&nbsp;&nbsp;·&nbsp;&nbsp;OpenAI</samp>
+
+<br><br>
+
+<samp>
+<b>04 &nbsp; A Note</b>
+</samp>
+
+> Most of what I build starts the same way: I notice a moment where the world is
+> slightly worse than it has to be, and I make something small for it. Then I show
+> it to a real person. Then I do it again.
+
+<br>
+
+<samp>
+<b>05 &nbsp; Correspondence</b>
+</samp>
+
+<samp>
+&nbsp;&nbsp;<a href="mailto:shawn4speed@gmail.com">shawn4speed@gmail.com</a><br>
+&nbsp;&nbsp;<a href="https://github.com/ShawnMadadha">github.com/ShawnMadadha</a>
+</samp>
+
+<br>
+
 ---
 
-### 🛠 stack
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=swift,ts,py,react,nextjs,nodejs,tailwind,supabase,postgres,vercel,docker,git,figma,vscode&theme=dark" />
-</p>
+<details>
+<summary><samp>&nbsp;the receipts</samp></summary>
 
----
-
-### 📊 the numbers
+<br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ShawnMadadha&theme=tokyonight&hide_border=true&background=0b1220&stroke=0b1220&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b8b8b&text_color=c9c9c9&count_private=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=666666&text_color=333333&count_private=true&hide_title=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&langs_count=6&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=6&hide_title=true" />
+</picture>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&langs_count=8" />
-</div>
+</details>
 
----
-
-### 📫 reach me
-
-<p>
-  <a href="mailto:shawn4speed@gmail.com"><img src="https://img.shields.io/badge/gmail-22d3ee?style=for-the-badge&logo=gmail&logoColor=0b1220" /></a>
-  <a href="https://github.com/ShawnMadadha"><img src="https://img.shields.io/badge/github-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee" /></a>
-</p>
+<br>
 
 <div align="center">
-<sub>shipping from orlando · always down to chat</sub>
+<sub><samp>set in JetBrains Mono · orlando, fl · mmxxvi</samp></sub>
 </div>
