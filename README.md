@@ -56,8 +56,8 @@
   <tr>
     <td width="64" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/d4d4d4" />
-        <img src="https://cdn.simpleicons.org/openai/2b2b2b" width="36" height="36" alt="openai" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/d4d4d4" />
+        <img src="https://cdn.simpleicons.org/anthropic/2b2b2b" width="36" height="36" alt="anthropic" />
       </picture>
     </td>
     <td valign="middle">
@@ -148,10 +148,10 @@
     </td>
     <td align="center" width="80">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/d4d4d4" />
-        <img src="https://cdn.simpleicons.org/openai/2b2b2b" width="28" height="28" alt="openai" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/d4d4d4" />
+        <img src="https://cdn.simpleicons.org/anthropic/2b2b2b" width="28" height="28" alt="anthropic" />
       </picture>
-      <br><sub><samp>OpenAI</samp></sub>
+      <br><sub><samp>Anthropic</samp></sub>
     </td>
   </tr>
 </table>
