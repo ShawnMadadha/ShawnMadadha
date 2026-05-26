@@ -190,8 +190,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shawnmadadha" title="linkedin">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/d4d4d4" />
-      <img src="https://cdn.simpleicons.org/linkedin/2b2b2b" width="22" height="22" alt="linkedin" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg" />
+      <img src="./assets/linkedin-light.svg" width="22" height="22" alt="linkedin" />
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -218,8 +218,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&hide_border=true&bg_color=00000000&title_color=d4d4d4&icon_color=d4d4d4&text_color=a0a0a0&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShawnMadadha&show_icons=true&hide_border=true&bg_color=00000000&title_color=2b2b2b&icon_color=2b2b2b&text_color=4a4a4a&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ShawnMadadha&show_icons=true&hide_border=true&bg_color=00000000&title_color=d4d4d4&icon_color=d4d4d4&text_color=a0a0a0&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShawnMadadha&show_icons=true&hide_border=true&bg_color=00000000&title_color=2b2b2b&icon_color=2b2b2b&text_color=4a4a4a&count_private=true" />
 </picture>
 
 <picture>
@@ -230,8 +230,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&hide_border=true&bg_color=00000000&title_color=d4d4d4&text_color=a0a0a0&langs_count=6" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&hide_border=true&bg_color=00000000&title_color=2b2b2b&text_color=4a4a4a&langs_count=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&hide_border=true&bg_color=00000000&title_color=d4d4d4&text_color=a0a0a0&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShawnMadadha&layout=compact&hide_border=true&bg_color=00000000&title_color=2b2b2b&text_color=4a4a4a&langs_count=6" />
 </picture>
 
 </div>
