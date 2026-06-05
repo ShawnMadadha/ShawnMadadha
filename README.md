@@ -42,6 +42,20 @@
   <tr>
     <td width="64" align="center" valign="middle">
       <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/d4d4d4" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/2b2b2b" width="36" height="36" alt="next.js" />
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/ShawnMadadha/kickoff"><b><samp>kickoff</samp></b></a>
+      <br>
+      <sub><samp>world cup 26 match-day arrival router for miami · cursor hackathon, 8th of 45.</samp></sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/d4d4d4" />
         <img src="https://cdn.simpleicons.org/python/2b2b2b" width="36" height="36" alt="python" />
       </picture>
