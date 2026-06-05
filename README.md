@@ -42,6 +42,20 @@
   <tr>
     <td width="64" align="center" valign="middle">
       <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/elevenlabs/d4d4d4" />
+        <img src="https://cdn.simpleicons.org/elevenlabs/2b2b2b" width="36" height="36" alt="elevenlabs" />
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/Akhileshreddym/Onyx"><b><samp>onyx</samp></b></a>
+      <br>
+      <sub><samp>autonomous medical proxy · prevents fatal drug interactions over real-time ai phone calls · best use of elevenlabs, sase hacks @ uf.</samp></sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/d4d4d4" />
         <img src="https://cdn.simpleicons.org/nextdotjs/2b2b2b" width="36" height="36" alt="next.js" />
       </picture>
